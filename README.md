@@ -54,22 +54,23 @@
 
 ---
 
-🌟 Featured Projects
+### 🌟 Featured Projects
 
-* 🚀 Playwright Fintech E2E & API Automation Framework
-* Built a comprehensive automation test suite using TypeScript, Playwright, and Page Object Model (POM). Automated critical UI workflows, validated REST API endpoints alongside UI actions, and integrated with GitHub Actions CI/CD for headless execution.
+* **🚀 Playwright Fintech E2E & API Automation Framework**<br>
+  Built a comprehensive automation test suite using TypeScript, Playwright, and Page Object Model (POM). Automated critical UI workflows, validated REST API endpoints alongside UI actions, and integrated with GitHub Actions CI/CD for headless execution.
 
-* 🤖 Selenium Automation Framework
-* Developed a robust test automation architecture using Java, Selenium WebDriver, and TestNG to enhance regression coverage, validate dynamic UI elements, and significantly improve overall testing efficiency.
+* **🤖 Selenium Automation Framework**<br>
+  Developed a robust test automation architecture using Java, Selenium WebDriver, and TestNG to enhance regression coverage, validate dynamic UI elements, and significantly improve overall testing efficiency.
 
-* 🌾 Live Market Rate for Farmers (Krishi Rates)
-* Conducted end-to-end manual and API testing for a real-time agricultural platform. Validated data consistency between Government APIs, Supabase backend, and the React.js frontend ensuring accurate crop price retrieval.
+* **🌾 Live Market Rate for Farmers (Krishi Rates)**<br>
+  Conducted end-to-end manual and API testing for a real-time agricultural platform. Validated data consistency between Government APIs, Supabase backend, and the React.js frontend ensuring accurate crop price retrieval.
 
-* 🔐 Web Application Security Assessment
-* Executed comprehensive security testing and vulnerability analysis on web applications following OWASP guidelines. Documented technical risks, identified edge-case vulnerabilities like input validation flaws, and provided actionable remediation strategies.
+* **🔐 Web Application Security Assessment**<br>
+  Executed comprehensive security testing and vulnerability analysis on web applications following OWASP guidelines. Documented technical risks, identified edge-case vulnerabilities like input validation flaws, and provided actionable remediation strategies.
 
-* 📊 Data Analytics & Machine Learning Models
-* Performed EDA, data cleaning, visualization, and predictive modeling using Python, Pandas, and Scikit-Learn to derive actionable insights and validate large datasets for clinical and business workflows.
+* **📊 Data Analytics & Machine Learning Models**<br>
+  Performed EDA, data cleaning, visualization, and predictive modeling using Python, Pandas, and Scikit-Learn to derive actionable insights and validate large datasets for clinical and business workflows.
+
 ---
 
 ## 🎯 Current Mission
