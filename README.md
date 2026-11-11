@@ -21,6 +21,9 @@
 
 ### 🧪 Quality Assurance
 
+⚡ Playwright
+⚡ TypeScript
+⚡ Javascript
 ⚡ Selenium WebDriver
 ⚡ Java
 ⚡ TestNG
